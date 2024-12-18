@@ -1,0 +1,11 @@
+body.users-page {
+    background-color: blue;
+}
+
+body.add-user-page {
+    background-color: yellow;
+}
+
+body.edit-user-page {
+    background-color: green;
+}
